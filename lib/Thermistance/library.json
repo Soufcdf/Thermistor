@@ -1,0 +1,17 @@
+{
+  "name": "Thermistor",
+  "version": "1.0.0",
+  "description": "This program reads the resistance of a thermistor via an ADC pin and calculates the temperature in Celsius using the Steinhart-Hart equation.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Soufcdf/Thermistor.git"
+  },
+  "authors": [
+    {
+      "name": "souf cdf",
+      "email": "souf@cdfnancy.fr"
+    }
+  ],
+  "frameworks": "*",
+  "platforms": "*"
+}
